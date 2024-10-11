@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 20rpx;
+  font-size: 30rpx;
+  line-height: 54rpx;
+}
+.uni-body {
+  font-size: 32rpx;
+}
+.userSingular {
+  color: blue;
+}
+.userPlural {
+  color: orchid;
+}
+

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 20rpx;
+  font-size: 30rpx;
+  line-height: 32rpx;
+}
+.formItem {
+  margin: 10rpx 20rpx;
+}
+.footer {
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 50rpx;
+}
+

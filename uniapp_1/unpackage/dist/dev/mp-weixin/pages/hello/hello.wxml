@@ -1,0 +1,1 @@
+<view><view style="text-align:center;"><image class="mylogo" src="{{myLogo}}" mode="aspectFit"></image></view><view class="nameWord"><view class="_p">{{"i am lihuibear ,你好 "+name}}</view></view></view>

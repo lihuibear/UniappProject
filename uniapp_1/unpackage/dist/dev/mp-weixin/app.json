@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/hello/hello",
+    "pages/list/list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "lihuibear_first_uniapp",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home.png"
+      },
+      {
+        "pagePath": "pages/hello/hello",
+        "text": "欢迎",
+        "iconPath": "static/icons/hello.png",
+        "selectedIconPath": "static/icons/hello.png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "列表",
+        "iconPath": "static/icons/list.png",
+        "selectedIconPath": "static/icons/list.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

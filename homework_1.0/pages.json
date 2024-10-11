@@ -1,0 +1,76 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				// "navigationBarTitleText": "uni-app"
+			}
+		}, {
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+				// "enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/user/profile",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的 | 个人信息"
+				// "enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/user/settings",
+			"style" : 
+			{
+				
+				"navigationBarTitleText" : "我的 | 设置"
+				// "enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/studys/studys",
+			"style" : 
+			{
+				"navigationBarTitleText" : "课程"
+				
+			}
+		}
+
+	],
+"tabBar": {
+		"color": "#7a7e83",
+		"selectedColor": "#0faeff",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/icons/home.png",
+				"selectedIconPath": "static/icons/home.png"
+				
+			},
+			{
+				"pagePath": "pages/studys/studys",
+				"text": "课程",
+				"iconPath": "static/icons/study.png",
+				"selectedIconPath": "static/icons/study.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的",
+				"iconPath": "static/icons/me.png",
+				"selectedIconPath": "static/icons/me.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "慧学程序员学习平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

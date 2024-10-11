@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.data-v-7d5e07c6 .uni-card .uni-card__header .uni-card__header-content.uni-card__header-content-title {
+  font-size: 38rpx;
+  font-weight: bold;
+}
+.container.data-v-7d5e07c6 {
+  padding: 20rpx;
+  font-size: 30rpx;
+  line-height: 32rpx;
+}
+

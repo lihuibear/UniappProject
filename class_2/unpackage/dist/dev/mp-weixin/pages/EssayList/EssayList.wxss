@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-356231be {
+  padding: 20rpx;
+  font-size: 30rpx;
+  line-height: 32rpx;
+}
+.empty-message.data-v-356231be {
+  text-align: center;
+  margin-top: 50rpx;
+  font-size: 28rpx;
+  color: #999;
+}
+.subtitle.data-v-356231be {
+  margin-top: 10rpx;
+  font-size: 26rpx;
+  color: #666;
+}
+.subtitle text.data-v-356231be {
+  display: block;
+}
+

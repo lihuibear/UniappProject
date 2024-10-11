@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/EssayList/EssayList",
+    "pages/EssayEdit/EssayEdit",
+    "pages/MemoList/MemoList",
+    "pages/MemoEdit/MemoEdit",
+    "pages/Profile/Profile"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "慧备-小记",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/EssayList/EssayList",
+        "text": "随笔",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home.png"
+      },
+      {
+        "pagePath": "pages/MemoList/MemoList",
+        "text": "备忘录",
+        "iconPath": "static/icons/study.png",
+        "selectedIconPath": "static/icons/study.png"
+      },
+      {
+        "pagePath": "pages/Profile/Profile",
+        "text": "我的",
+        "iconPath": "static/icons/me.png",
+        "selectedIconPath": "static/icons/me.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

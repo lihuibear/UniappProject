@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.nameWord {
+  font-size: 50rpx;
+  color: #1e6fff;
+  text-align: center;
+}
+.mylogo {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+
