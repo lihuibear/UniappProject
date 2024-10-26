@@ -1,0 +1,7 @@
+{
+  "name": "CloudUpdateData",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

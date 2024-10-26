@@ -1,0 +1,29 @@
+//pages.json
+{
+	"pages": [{
+            "path" : "pages/list/list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "小小备忘录",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+        	"path" : "pages/detail/detail",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "详情"
+        	}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
