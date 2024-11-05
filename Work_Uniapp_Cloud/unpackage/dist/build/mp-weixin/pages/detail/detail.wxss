@@ -1,0 +1,1 @@
+.container{padding:20rpx;font-size:30rpx;line-height:32rpx}.formItem{margin:10rpx 20rpx}.optBox{display:flex;padding:20rpx 0rpx}.status-image{width:40px;height:40px}.selecter{flex:1;padding:0 0 0 20rpx}.footer{width:100%;text-align:center;position:fixed;bottom:50rpx}

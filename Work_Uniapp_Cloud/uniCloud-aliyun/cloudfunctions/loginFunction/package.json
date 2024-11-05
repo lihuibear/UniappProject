@@ -1,0 +1,7 @@
+{
+  "name": "loginFunction",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
